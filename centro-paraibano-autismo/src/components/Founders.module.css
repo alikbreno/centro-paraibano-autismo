@@ -1,0 +1,9 @@
+.founders{
+    padding: 2rem;
+}
+  
+.foundersContainer {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}

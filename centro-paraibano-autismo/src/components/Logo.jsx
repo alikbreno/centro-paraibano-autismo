@@ -4,11 +4,13 @@ import style from './Logo.module.css'
 
 const Logo = () => {
   return (
-    <div>
+    <header>
       <img src={logo} alt="logo" />
-      <h1 className={style.nome}>Centro Paraibano de Autismo</h1>
-      <h4>Associação</h4>
-    </div>
+      <div>
+        <h1 className={style.nome}>Centro Paraibano de Autismo</h1>
+        <h4>Associação</h4>
+      </div>
+    </header>
   )
 }
 

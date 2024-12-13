@@ -1,3 +1,11 @@
 .nome {
     font-family: 'Patrick Hand', 'Gloria Hallelujah', cursive;
 }
+img{
+    width: 120px;
+}
+header{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
