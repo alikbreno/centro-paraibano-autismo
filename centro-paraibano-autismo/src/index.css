@@ -12,3 +12,21 @@
   padding: 0;
 }
 
+.map-container {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.map-container a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.map-container a:hover {
+  text-decoration: underline;
+}

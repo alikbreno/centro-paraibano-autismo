@@ -9,3 +9,7 @@ header{
     display: flex;
     align-items: center;
 }
+a{
+    text-decoration-line: none;
+    color: black;
+}
